@@ -1,0 +1,11 @@
+D:\DicApp_Test\bin\Debug\DicApp_Test.exe.config
+D:\DicApp_Test\bin\Debug\DicApp_Test.exe
+D:\DicApp_Test\bin\Debug\DicApp_Test.pdb
+D:\DicApp_Test\obj\Debug\DicApp_Test.csproj.AssemblyReference.cache
+D:\DicApp_Test\obj\Debug\DicApp_Test.Form1.resources
+D:\DicApp_Test\obj\Debug\DicApp_Test.PanelDes.resources
+D:\DicApp_Test\obj\Debug\DicApp_Test.Properties.Resources.resources
+D:\DicApp_Test\obj\Debug\DicApp_Test.csproj.GenerateResource.cache
+D:\DicApp_Test\obj\Debug\DicApp_Test.csproj.CoreCompileInputs.cache
+D:\DicApp_Test\obj\Debug\DicApp_Test.exe
+D:\DicApp_Test\obj\Debug\DicApp_Test.pdb
